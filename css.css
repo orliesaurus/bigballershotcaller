@@ -73,7 +73,7 @@ a:link, a:visited, a:active { text-decoration:none; color: grey;}
   border: 5px solid white;
 }
 
-ul { margin: 0; padding: 0 0 0 80px;  list-style: none; text-align: left; font-size: 10px}
+ul { margin: 0; padding: 0 0 0 80px;  list-style: none; text-align: left; font-size: 12px}
 
 
 .old { z-index: 5; color: white; position: absolute; bottom: 0px; right: 0px; font-size: 0.6em}
