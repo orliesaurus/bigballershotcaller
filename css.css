@@ -26,7 +26,7 @@ a:link, a:visited, a:active { text-decoration:none; color: grey;}
   height: 100%;
   position: absolute;
 
-  background: url('https://media.giphy.com/media/p5ItB6V2zgmVG/giphy.gif');
+  background: url('//media.giphy.com/media/p5ItB6V2zgmVG/giphy.gif');
   background-position:right;
   background-repeat: repeat-y;
   background-size: cover;
@@ -51,7 +51,7 @@ a:link, a:visited, a:active { text-decoration:none; color: grey;}
 }
 
 .header{
-  background: url('https://cdn-images-1.medium.com/freeze/fit/c/2000/1600/gradv/29/81/30/1*X_4W-EV1NQpAn-ypmIpClw.jpeg');
+  background: url('//cdn-images-1.medium.com/freeze/fit/c/2000/1600/gradv/29/81/30/1*X_4W-EV1NQpAn-ypmIpClw.jpeg');
   background-size: cover;
   border-radius: 8px 8px 0px 0px;
   min-height: 200px;
@@ -65,7 +65,7 @@ a:link, a:visited, a:active { text-decoration:none; color: grey;}
 
 .face { 
   cursor: crosshair;
-  background: white url('https://avatars0.githubusercontent.com/u/4209733?v=3&s=460') -45px -90px/250px 250px;
+  background: white url('//avatars0.githubusercontent.com/u/4209733?v=3&s=460') -45px -90px/250px 250px;
   border-radius: 150px; height: 150px; width: 150px;
   margin: 0 auto;
   position: relative;
