@@ -73,7 +73,7 @@ a:link, a:visited, a:active { text-decoration:none; color: grey;}
   border: 5px solid white;
 }
 
-.face:hover {
+.face:active {
   background: white url('https://i.imgur.com/99zxrcu.jpg') -45px -90px/250px 250px;
 }
 
